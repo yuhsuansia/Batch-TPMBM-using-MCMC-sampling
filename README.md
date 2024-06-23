@@ -12,3 +12,5 @@ K. Granström, L. Svensson, Y. Xia, J. Williams, Á. F. García-Fernández, "Poi
 The tracking performance is evaluated using the trajectory generalised optimal subpattern-assignment (TGOSPA) metric, presented in
 
 Á. F. García-Fernández, A. S. Rahmathullah, L. Svensson, "A metric on the space of finite sets of trajectories for evaluation of multi-target tracking algorithms," in IEEE Transactions on Signal Processing, 2020, available at https://arxiv.org/abs/1605.01177.
+
+NOTE: implementations assign2DByCol.m and kBest2DAssign.m are copied from the GitHub repository https://github.com/USNavalResearchLaboratory/TrackerComponentLibrary.

@@ -7,7 +7,7 @@ Y. Xia, Á. F. García-Fernández, and L. Svensson, "Markov chain monte carlo mu
 
 The trajectory Poisson multi-Bernoulli mixture filter is described in
 
-K. Granström, L. Svensson, Y. Xia, J. Williams, Á. F. García-Fernández, "Poisson multi-Bernoulli mixture trackers: Continuity through random finite sets of trajectories," in 2018 21st International Conference on Information Fusion (FUSION) 2022, available at https://arxiv.org/abs/1812.05131 and https://arxiv.org/abs/1912.08718.
+K. Granström, L. Svensson, Y. Xia, J. Williams, Á. F. García-Fernández, "Poisson multi-Bernoulli mixture trackers: Continuity through random finite sets of trajectories," in 2018 21st International Conference on Information Fusion (FUSION), available at https://arxiv.org/abs/1812.05131 and https://arxiv.org/abs/1912.08718.
 
 The tracking performance is evaluated using the trajectory generalised optimal subpattern-assignment (TGOSPA) metric, presented in
 

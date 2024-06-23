@@ -3,7 +3,7 @@ This repository contains the Matlab code of a batch implementation of the trajec
 
 The implementation is described in 
 
-Y. Xia, Á. F. García-Fernández, and L. Svensson, "Markov chain monte carlo multi-scan data association for sets of trajectories," in IEEE Transactions on Aerospace and Electronic Systems Processing, 2024, available at https://arxiv.org/abs/2312.03423.
+Y. Xia, Á. F. García-Fernández, and L. Svensson, "Markov chain monte carlo multi-scan data association for sets of trajectories," in IEEE Transactions on Aerospace and Electronic Systems, 2024, available at https://arxiv.org/abs/2312.03423.
 
 The trajectory Poisson Multi-Bernoulli mixture filter is described in
 

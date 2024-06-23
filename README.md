@@ -5,7 +5,7 @@ The implementation is described in
 
 Y. Xia, Á. F. García-Fernández, and L. Svensson, "Markov chain monte carlo multi-scan data association for sets of trajectories," in IEEE Transactions on Aerospace and Electronic Systems, 2024, available at https://arxiv.org/abs/2312.03423.
 
-The trajectory Poisson Multi-Bernoulli mixture filter is described in
+The trajectory Poisson multi-Bernoulli mixture filter is described in
 
 K. Granström, L. Svensson, Y. Xia, J. Williams, Á. F. García-Fernández, "Poisson multi-Bernoulli mixture trackers: Continuity through random finite sets of trajectories," in 2018 21st International Conference on Information Fusion (FUSION) 2022, available at https://arxiv.org/abs/1812.05131 and https://arxiv.org/abs/1912.08718.
 
